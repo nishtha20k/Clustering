@@ -13,8 +13,8 @@ pip install pycaret
 
 
 ## Details
-
-In this project, clustering was performed using different clustering techniques on Dataset 'Iris':
+- The Iris dataset from the UCI Machine Learning Repository was used in this project.
+- In this project, clustering was performed using different clustering techniques:
 
 1. *KMeans Clustering*: KMeans clustering is a popular method for partitioning a dataset into K clusters.
    
