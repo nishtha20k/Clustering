@@ -8,9 +8,9 @@ This project demonstrates how to perform clustering using PyCaret, a versatile P
 
 To run this project, you'll need to have Python installed on your system. You can install PyCaret and other required dependencies using pip:
 
- sh
+``` sh
 pip install pycaret
-
+```
 
 ## Details
 - The Iris dataset from the UCI Machine Learning Repository was used in this project.
